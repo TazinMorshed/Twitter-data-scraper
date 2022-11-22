@@ -1,0 +1,9 @@
+Clone the project and run the cells of jupyter notebook
+
+Each cell has comments for better understanding.
+
+To sucessfully run the project make sure to have Microsoft Edge open (full windowed) and dowload the 
+web driver corresponding to your microsoft edge version for scraping.  
+
+more info: 
+https://learn.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=c-sharp

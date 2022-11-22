@@ -1,0 +1,9 @@
+Dowload and install anaconda using 'https://www.anaconda.com/products/distribution'
+
+Install using pip.
+
+- Install python 3.9.12
+- Install selenium 4.6.0
+- Install mysql 8.0.31
+- Install pymysql
+- Install mysql-connector-python
